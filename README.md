@@ -14,10 +14,8 @@
 
 <div align="center" >
 
- 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-khan-311&theme=ayu_mirage)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-khan-311&theme=ayu_mirage)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=vue-dark)]('https://github.com/akash-khan-311?tab=repositories)
 
 
 <a href="https://github.com/akash-khan-311?tab=repositories">
@@ -29,10 +27,12 @@
 
 <div align="center" width="100%">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-khan-311&theme=ayu_mirage)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-khan-311&theme=ayu_mirage)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=ayu_mirage)
 
+
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=ayu_mirage" alt="GitHub Profile Details" width="100%">
 
 
 
