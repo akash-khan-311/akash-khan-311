@@ -11,12 +11,23 @@
 
 ## My Current Stats
 <br/>
-<div align="center">
-<a href="https://www.facebook.com/iyaRahmanirRahim"><img src="https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=terafox&hide_border=true&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a></div>
+
+<div align="center" >
+
+ 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=vue-dark)]('https://github.com/akash-khan-311?tab=repositories)
+
+
+<a href="https://github.com/akash-khan-311?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=vue-dark" width="100%" />
+</a>
+</div>
 
 <br/>
 
-<div align="center">
+<div align="center" width="100%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-khan-311&theme=ayu_mirage)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-khan-311&theme=ayu_mirage)
 
@@ -37,6 +48,7 @@
 <div align="center">
 
 [![My Skills ](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,expressjs,firebase,)](https://skillicons.dev)
+
 
 </div>
 
