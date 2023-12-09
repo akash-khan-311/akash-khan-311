@@ -1,4 +1,4 @@
-### Hi there 👋
+#Assalamu Alaikum , I'm Akash Khan Junior MERN Stack Developer 👋
 
 <!--
 **akash-khan-311/akash-khan-311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
