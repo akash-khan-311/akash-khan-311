@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-# 👀 My Current overview
+# 👀 My Current Focus
 
 ### 🔭 Currently Learning
 - Back-End Development and Next Js
