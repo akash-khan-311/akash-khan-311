@@ -1,6 +1,6 @@
 
 
-
+https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/banner.jpg
 # Assalamu Alaikum  👋 , I'm Akash Khan Junior MERN Stack Developer
 
 ## ⚡ Technologies That I Know
