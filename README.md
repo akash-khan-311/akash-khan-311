@@ -53,6 +53,19 @@
 <br/>
 <br/>
 
+
+## 📫 Reach Me Out On
+
+<br/>
+<br/>
+
+[<p align="center" width="100%"><img  height="75" src="https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/facebook.png">](https://www.facebook.com/iyaRahmanirRahim)
+[<img height="75" src="https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/linkedin.png">](https://www.linkedin.com/in/akash-khan-9585a02a0/)[<img height="75" src="https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/instagram.png"> </p>](https://www.instagram.com/akash01613500/)
+
+<br/>
+<br/>
+
+
 # 💻My Recent Projects
 
 ## 1. Ak Foodie Fellowship
@@ -95,16 +108,6 @@
 
 - Donators have a clear, tabular view of food requests, making it easy to manage and fulfill requests efficiently.
  
-## 📫 Reach Me Out On
-
-<br/>
-<br/>
-
-[<p align="center" width="100%"><img  height="75" src="https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/facebook.png">](https://www.facebook.com/iyaRahmanirRahim)
-[<img height="75" src="https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/linkedin.png">](https://www.linkedin.com/in/akash-khan-9585a02a0/)[<img height="75" src="https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/instagram.png"> </p>](https://www.instagram.com/akash01613500/)
-
-<br/>
-<br/>
 
 **Technologies Used:**
 * Front End : JavaScript,React Js , Tailwind Css 
