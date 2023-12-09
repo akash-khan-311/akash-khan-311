@@ -18,9 +18,9 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-khan-311&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-khan-311&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-khan-311&theme=ayu_mirage)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-khan-311&theme=ayu_mirage)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=ayu_mirage)
 
 
 
