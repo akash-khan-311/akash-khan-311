@@ -1,7 +1,6 @@
-#Assalamu Alaikum , I'm Akash Khan Junior MERN Stack Developer 👋
+## Assalamu Alaikum , I'm Akash Khan Junior MERN Stack Developer 👋
 
-<!--
-**akash-khan-311/akash-khan-311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=terafox&hide_border=true&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
