@@ -10,19 +10,25 @@
 
 
 ## My Current Stats
-
+<br/>
 <div align="center">
 <a href="https://www.facebook.com/iyaRahmanirRahim"><img src="https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=terafox&hide_border=true&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a></div>
+
+<br/>
 
  [![GitHub Trends SVG ](https://api.githubtrends.io/user/svg/akash-khan-311/repos?time_range=one_month&theme=bright_lights)](https://www.facebook.com/iyaRahmanirRahim)
  [![GitHub Trends SVG ](https://api.githubtrends.io/user/svg/akash-khan-311/repos?time_range=one_year&theme=dark)](https://www.facebook.com/iyaRahmanirRahim)
 
 
+<br/>
+
 ## ⚡ Technologies That I Know
+<br/>
 
 [![My Skills ](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,expressjs,firebase,)](https://skillicons.dev)
 
-
+<br/>
+<br/>
 
 # 👀 My Current overview
 
@@ -44,6 +50,8 @@
 ### ⚡ Fun Fact
 - I am driven by a strong sense of commitment and find fulfillment in successfully completing tasks.
 
+<br/>
+<br/>
 
 # 💻My Recent Projects
 
@@ -98,7 +106,7 @@
 
 
 
-## 1. AS HEALTH
+## 2. AS HEALTH
 
 **Description:** A health-focused React app providing valuable resources and information, promoting well-being through a user-friendly interface and curated content for a healthier lifestyle.
 
@@ -136,3 +144,40 @@
   - [Client Site](https://github.com/akash-khan-311/as-health)
 
   - [Live Site](https://as-health.netlify.app/)
+
+
+<br/>
+<br/>
+
+## 3. AS PROGRAMMING
+
+**Description:** A React-based platform offering programming courses, providing a comprehensive learning experience with diverse modules, projects, and real-world applications for aspiring developers.
+
+
+### Key Features: 
+
+#### 1. User-Friendly Interface
+
+
+#### 2.  Intuitive Course Selection
+
+
+
+#### 3. Optimized User Experience
+
+
+#### 4. Professional Styling
+
+
+#### 5. Efficient Codebase
+
+
+
+
+**Technologies Used:**
+* JavaScript,React Js , Tailwind Css 
+
+
+  - [Code Link](https://github.com/akash-khan-311/as-programming)
+
+  - [Live Site](https://as-programming-courses.netlify.app/)
