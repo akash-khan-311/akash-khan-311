@@ -94,7 +94,17 @@
 #### 7.Tabular View of Requests:
 
 - Donators have a clear, tabular view of food requests, making it easy to manage and fulfill requests efficiently.
+ 
+## 📫 Reach Me Out On
 
+<br/>
+<br/>
+
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/facebook.png">](https://www.facebook.com/iyaRahmanirRahim)
+[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+
+<br/>
+<br/>
 
 **Technologies Used:**
 * Front End : JavaScript,React Js , Tailwind Css 
@@ -103,6 +113,7 @@
   - [Client Site](https://github.com/akash-khan-311/ak-foodie-client)
   - [Server Site](https://github.com/akash-khan-311/ak-foodie-server)
   - [Live Site](https://ak-foodie-fellowship.netlify.app/)
+
 
 
 
