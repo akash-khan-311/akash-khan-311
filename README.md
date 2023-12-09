@@ -16,8 +16,17 @@
 
 <br/>
 
- [![GitHub Trends SVG ](https://api.githubtrends.io/user/svg/akash-khan-311/repos?time_range=one_month&theme=bright_lights)](https://www.facebook.com/iyaRahmanirRahim)
- [![GitHub Trends SVG ](https://api.githubtrends.io/user/svg/akash-khan-311/repos?time_range=one_year&theme=dark)](https://www.facebook.com/iyaRahmanirRahim)
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-khan-311&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-khan-311&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=default)
+
+
+
+
+</div>
+
 
 
 <br/>
@@ -25,7 +34,11 @@
 ## ⚡ Technologies That I Know
 <br/>
 
+<div align="center">
+
 [![My Skills ](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,expressjs,firebase,)](https://skillicons.dev)
+
+</div>
 
 <br/>
 <br/>
