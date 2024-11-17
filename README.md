@@ -8,16 +8,17 @@
 
 <br/>
 
-<div align="center" >
+<div align="center" width="100" >
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=524" width="100%" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akash-khan-311&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+
 </div>
 
 <br/>
 
 <div align="center" width="100%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=ayu_mirage" alt="GitHub Profile Details" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=tokyonight" alt="GitHub Profile Details" width="100%">
 
 </div>
 
@@ -29,7 +30,7 @@
 
 <div align="center">
 
-[![My Skills ](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,mongodb,expressjs,firebase,)](https://skillicons.dev)
+[![My Skills ](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,mongodb,expressjs,firebase,nextjs)](https://akash-khan.vercel.app/)
 
 </div>
 
@@ -95,7 +96,6 @@
 
 **Description:** A health-focused React app providing valuable resources and information, promoting well-being through a user-friendly interface and curated content for a healthier lifestyle.
 
-
 **Technologies Used:**
 
 - Front End : JavaScript,React Js , Tailwind Css
@@ -110,24 +110,70 @@
 
 ## 3. AS PROGRAMMING
 
-**Description:** A React-based platform offering programming courses, providing a comprehensive learning experience with diverse modules, projects, and real-world applications for aspiring developers.
+**Description:** AS Programming is designed to simplify the management of online courses, assignments, and user roles. The platform enables users to purchase and enroll in courses, submit assignments, and track their learning progress. Instructors can create and manage courses, evaluate assignments, and provide feedback to students. Admins oversee the platform by managing users, handling payments, and monitoring purchased courses.
 
-### Key Features:
+## Key Features:
 
-#### 1. User-Friendly Interface
+### For Users:
 
-#### 2. Intuitive Course Selection
+#### 1. Enroll in Courses: Purchase courses and access learning materials.
 
-#### 3. Optimized User Experience
+#### 2. Submit Assignments: Upload assignment links for evaluation.
+
+#### 3. Dashboard: View purchased courses, submitted assignments, and their statuses.
 
 #### 4. Professional Styling
 
 #### 5. Efficient Codebase
 
+### For Instructors:
+
+#### 1. Submit Courses: Create and manage courses with detailed information.
+
+#### 2. Evaluate Assignments: Check student submissions and provide feedback or grades.
+
+#### 3. Instructor Dashboard: Track submitted assignments and course performance.
+
+### For Admins:
+
+#### 1. User Role Management: Promote or demote users between roles (User, Instructor, Admin).
+
+#### 2. Payment Management: View and manage all payment-related information.
+
+#### 3. Purchased Course Monitoring: Access detailed information about purchased courses and users.
+
+#### 4. Delete Users: Remove users or instructors if necessary.
+
 **Technologies Used:**
 
-- JavaScript,React Js , Tailwind Css
+### Frontend and Backend::
 
-  - [Code Link](https://github.com/akash-khan-311/as-programming)
+#### 1. Next.js: Utilized for both frontend and backend development (API routes for server-side logic).
 
-  - [Live Site](https://as-programming-courses.netlify.app/)
+#### 2. Tailwind CSS: For styling the application and ensuring responsiveness.
+
+#### 3. Swiper.js: For creating interactive carousels
+
+### Database:
+
+#### 1. MongoDB: To store and manage user, course, assignment, and payment data.
+
+#### 2. Mongoose: For modeling MongoDB schemas and handling database interactions.
+
+### Authentication:
+
+#### 1. NextAuth.js: For user authentication with Google OAuth and session management.
+
+### Payment Gateway:
+
+#### 1. SSLCommerz: For Secure payment proccessing and order management.
+
+### Additional Tools:
+
+#### 1. Postman: For API testing.
+
+#### 2. Git and GitHub: Version control and project hosting.
+
+- [Code Link](https://github.com/akash-khan-311/as-programming-nextjs)
+
+- [Live Site](https://as-programming.vercel.app/)
