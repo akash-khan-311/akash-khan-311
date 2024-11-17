@@ -10,15 +10,15 @@
 
 <div align="center" width="100" >
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akash-khan-311&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+<img width="100%" height="100%" src="https://streak-stats.demolab.com?user=akash-khan-311&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
-<div align="center" width="100%">
+<div align="center" width="100">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=tokyonight" alt="GitHub Profile Details" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=tokyonight" alt="GitHub Profile Details" width="100%" height="100%">
 
 </div>
 
