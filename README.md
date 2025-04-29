@@ -10,7 +10,7 @@
 
 <div align="center" width="100" >
 
-<img width="100%" height="100%" src="https://streak-stats.demolab.com?user=akash-khan-311&theme=tokyonight" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akash-khan-311&theme=transparent" alt="GitHub Streak" /></a>
 
 </div>
 
