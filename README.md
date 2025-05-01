@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![My Skills ](https://skillicons.dev/icons?i=html,css,tailwind,shadcn,bootstrap,js,typescript,react,nodejs,mongodb,expressjs,firebase,nextjs)](https://akash-khan.vercel.app/)
+[![My Skills ](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,typescript,vscode,git,github,npm,react,nodejs,mongodb,expressjs,firebase,nextjs)](https://akash-khan-2.vercel.app/)
 
 </div>
 
