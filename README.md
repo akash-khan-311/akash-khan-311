@@ -2,22 +2,20 @@
 
 ### I'm A Front End Developer Based In Bangladesh.
 
-[![Md. Akash Khan](https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/main/assests/images/banner.jpg)](https://www.facebook.com/iyaRahmanirRahim)
+[![Md Akash Khan](./assests/images/banner.jpg)]
 
 ## My Current Stats
 
 <br/>
 
 <div align="center" width="100" >
-<img src="https://streak-stats.demolab.com?user=akash-khan-311&theme=transparent" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
 <div align="center" width="100">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-khan-311&theme=tokyonight" alt="GitHub Profile Details" width="100%" height="100%">
+<a href="https://github.com/akash-khan-311?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=transparent&card_width=600&card_height=300" alt="GitHub Streak" /></a>
 
 </div>
 
