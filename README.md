@@ -9,8 +9,7 @@
 <br/>
 
 <div align="center" width="100" >
-
-<a width="100%" height="100%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akash-khan-311&theme=transparent" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=akash-khan-311&theme=transparent" alt="GitHub Streak" />
 
 </div>
 
