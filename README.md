@@ -1,6 +1,6 @@
 # Assalamu Alaikum 👋 , I'm Akash Khan .
 
-### I'm A Front End Developer Based In Bangladesh.
+### I'm A MERN Stack Developer Based In Bangladesh.
 
 [![Md. Akash Khan](https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/refs/heads/main/assests/images/banner.jpg)](https://www.facebook.com/iyaRahmanirRahim)
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![My Skills ](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,mongodb,expressjs,firebase,nextjs)](https://akash-khan.vercel.app/)
+[![My Skills ](https://skillicons.dev/icons?i=html,css,tailwind,shadcn,bootstrap,js,typescript,react,nodejs,mongodb,expressjs,firebase,nextjs)](https://akash-khan.vercel.app/)
 
 </div>
 
