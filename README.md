@@ -2,7 +2,7 @@
 
 ### I'm A Front End Developer Based In Bangladesh.
 
-[![Md Akash Khan](./assests/images/banner.jpg)]
+[![Md. Akash Khan](https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/refs/heads/main/assests/images/banner.jpg)](https://www.facebook.com/iyaRahmanirRahim)
 
 ## My Current Stats
 
