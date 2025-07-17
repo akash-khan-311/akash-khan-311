@@ -38,11 +38,11 @@
 
 ### 🔭 Currently Learning
 
-- Back-End Development and Next Js
+- Back-End Development and DSA - Data Structure Algorithms
 
 ### 🌱 Exploring
 
-- Redux
+- GSAP,Three.js for Animation
 
 ### 👯 Looking to Learn
 
