@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center" width="100">
-<a href="https://github.com/akash-khan-311?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=transparent&card_width=600&card_height=300" alt="GitHub Streak" /></a>
+![akash-khan-311's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akash-khan-311&theme=dracula&hide_border=false)
 
 </div>
 
