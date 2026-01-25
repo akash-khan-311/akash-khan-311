@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center" width="100">
-![akash-khan-311's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akash-khan-311&theme=dracula&hide_border=false)
+
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![My Skills ](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,typescript,vscode,git,github,npm,react,nodejs,mongodb,expressjs,firebase,nextjs)](https://akash-khan-2.vercel.app/)
+<a href="[https://git.io/streak-stats](https://akash-khan-portfolio.vercel.app/)"><img src="https://github-readme-streak-stats.herokuapp.com?user=akash-khan-311&theme=dark" alt="GitHub Streak" /></a>
 
 </div>
 
