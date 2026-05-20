@@ -1,8 +1,8 @@
-# Assalamu Alaikum 👋 , I'm Akash Khan .
+# Assalamu Alaikum 👋 , I'm Akash Ali .
 
 ### I'm A MERN Stack Developer Based In Bangladesh.
 
-[![Md. Akash Khan](https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/refs/heads/main/assests/images/banner.jpg)](https://www.facebook.com/iyaRahmanirRahim)
+[![Md. Akash Ali](https://raw.githubusercontent.com/akash-khan-311/akash-khan-311/refs/heads/main/assests/images/banner.jpg)](https://www.facebook.com/iyaRahmanirRahim)
 
 ## My Current Stats
 <br/>
@@ -57,7 +57,7 @@
 
 ### 🌱 Exploring
 
-- GSAP,Three.js for Animation
+- Shopify Theme Development
 
 ### 👯 Looking to Learn
 
@@ -91,18 +91,17 @@
 
 # 💻My Recent Projects
 
-## 1. Ak Foodie Fellowship
+## 1. AI-Powered Developer Portfolio
 
-**Description:** Designed and developed a comprehensive food donation platform utilizing cutting-edge technologies to facilitate the donation and distribution of food. The platform employs a MERN stack—MongoDB, Express.js, React.js, and Node.js—combined with Firebase for authentication, ensuring a secure and seamless user experience.
-
+**Description:** A modern and interactive personal portfolio website built to showcase my skills, projects, experience, and services as a MERN Stack & Next.js Developer. The portfolio includes an AI-powered assistant that allows visitors to chat and learn more about me in a dynamic and engaging way.
+The application features real-time AI chat, voice input, markdown support, persistent conversations, file upload functionality, smooth animations, and fully responsive UI/UX with dark/light mode support..
 **Technologies Used:**
 
-- Front End : JavaScript,React Js , Tailwind Css
-- Back End : Express Js , Node Js
-- Database : MongoDB
-  - [Client Site](https://github.com/akash-khan-311/ak-foodie-client)
-  - [Server Site](https://github.com/akash-khan-311/ak-foodie-server)
-  - [Live Site](https://ak-foodie-fellowship.netlify.app/)
+- Front End : JavaScript,Tailwind Css, Framer Motion, Lenis, Next.js
+- Back End : Next.js
+- Database : Mongoose, MongoDB
+  - [Code Link](https://github.com/akash-khan-311/new-portfolio)
+  - [Live Site](https://akash-khan-portfolio.vercel.app/)
 
 ## 2. AS HEALTH
 
